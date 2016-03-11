@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Hashrocket](http://hashrocket.com/).
 
-_358 TILs and counting..._
+_360 TILs and counting..._
 
 ---
 
@@ -219,6 +219,7 @@ _358 TILs and counting..._
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
+- [Custom Validation Message](rails/custom-validation-message.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
@@ -396,6 +397,7 @@ _358 TILs and counting..._
 - [Open A Tag In A Split Window](vim/open-a-tag-in-a-split-window.md)
 - [Open an Unnamed Buffer](vim/open-an-unnamed-buffer.md)
 - [Open Routes File With vim-rails](vim/open-routes-file-with-vim-rails.md)
+- [Open The Latest Rails Migration](vim/open-the-latest-rails-migration.md)
 - [Opening a URL](vim/opening-a-url.md)
 - [Opening Man Pages In Vim](vim/opening-man-pages-in-vim.md)
 - [Paste A Register From Insert Mode](vim/paste-a-register-from-insert-mode.md)
